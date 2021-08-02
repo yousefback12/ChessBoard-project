@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="Chessboard.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <div class="navbar">
+            <div class="container flex">
+            <nav>
+                <ul>
+                    <li><a href="#">About US</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">How to play</a></li>
+                </ul>
+            </nav>
+            </div>
+        </div>
+
+    </body>
+    </html>
