@@ -1,7 +1,10 @@
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Roboto';
+    
 }
 
 a {
@@ -35,10 +38,23 @@ ul {
     margin: 0 5px;
 }
 
+
+nav ul {
+    height: 100px;  
+}
+
 .navbar a:hover {
     border-bottom: 5px #fff solid;
 }
 
-nav ul {
-    height: 100px;
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: black ;
+    height: 200px;
+    color: white;
 }
